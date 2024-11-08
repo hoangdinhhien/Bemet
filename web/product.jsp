@@ -64,25 +64,25 @@
                         <div class="shop-details-images-wrap">
                             <div class="tab-content" id="myTabContent">
                                 <div class="tab-pane show active" id="itemOne-tab-pane" role="tabpanel" aria-labelledby="itemOne-tab" tabindex="0">
-                                    <a href="./assets/img/upload/${product.thumbnail}" class="popup-image">
-                                        <img id="big-img" src="./assets/img/upload/${product.thumbnail}" alt="${product.name}" width="100%">
+                                    <a href="./assets/img/product/${product.thumbnail}" class="popup-image">
+                                        <img id="big-img" src="./assets/img/product/${product.thumbnail}" alt="${product.name}" width="100%">
                                     </a>
                                 </div>
                             </div>
                             <ul class="nav nav-tabs">
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link">
-                                        <img class="thumb-image" src="./assets/img/upload/${product.thumbnail}" alt="" width="125px">
+                                        <img class="thumb-image" src="./assets/img/product/${product.thumbnail}" alt="" width="125px">
                                     </button>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link">
-                                        <img class="thumb-image" src="./assets/img/upload/${product.thumbnail}" alt="" width="125px">
+                                        <img class="thumb-image" src="./assets/img/product/${product.thumbnail}" alt="" width="125px">
                                     </button>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link">
-                                        <img class="thumb-image" src="./assets/img/upload/${product.thumbnail}" alt="" width="125px">
+                                        <img class="thumb-image" src="./assets/img/product/${product.thumbnail}" alt="" width="125px">
                                     </button>
                                 </li>
                             </ul>
@@ -210,7 +210,7 @@
                                 <div class="product-item-three inner-product-item">
                                     <div class="product-thumb-three">
                                         <a href="ProductServlet?productId=${product.id}">
-                                            <img src="./assets/img/upload/${product.thumbnail}" alt="${product.name}">
+                                            <img src="./assets/img/product/${product.thumbnail}" alt="${product.name}">
                                         </a>
                                         <span class="batch">New<i class="fas fa-star"></i></span>
                                     </div>
