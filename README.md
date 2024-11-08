@@ -18,3 +18,22 @@
 ![example](./images/home7.PNG)
 ![example](./images/home8.PNG)
 ![example](./images/home9.PNG)
+# Trang About
+![example](./images/about.PNG)
+![example](./images/about1.PNG)
+# Trang Products
+![example](./images/product.PNG)
+# Trang Detail Product và sản phẩm liên quan
+![example](./images/detailproduct.PNG)
+# Trang Cart
+![example](./images/cart.PNG)
+# Trang Login
+![example](./images/login.PNG)
+# Trang Register
+![example](./images/register.PNG)
+# Trang Admin
+![example](./images/admin1.PNG)
+![example](./images/admin2.PNG)
+![example](./images/admin3.PNG)
+![example](./images/admin4.PNG)
+![example](./images/admin5.PNG)
