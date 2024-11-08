@@ -8,4 +8,4 @@
   - Frontend: Dùng HTML, CSS, và JavaScript để xây dựng giao diện.
   - Database: MySQL hoặc SQL Server để lưu trữ thông tin sản phẩm, đơn hàng, và khách hàng.
 # Dưới đây là những hình ảnh chi tiết về website này:
-![example](./images/home1.png)
+![example](./images/home1.PNG)
